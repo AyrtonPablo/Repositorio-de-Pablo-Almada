@@ -70,3 +70,8 @@ y escritura para ti y ningun permiso para los demas.
 llamale ejercicios.
 
 -$ cp miPractica ../ubuntu/ ejercicios
+
+
+
+
+CÔMO SE RESOLVIÔ LA TAREA DE GITHUB.
